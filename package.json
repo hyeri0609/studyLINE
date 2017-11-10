@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hyeri0609/studyLINE/issues"
   },
-  "homepage": "https://github.com/hyeri0609/studyLINE#readme"
+  "homepage": "https://github.com/hyeri0609/studyLINE#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mocha": "^4.0.1"
+  }
 }
